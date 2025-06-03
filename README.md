@@ -19,6 +19,7 @@ The internship helped me enhance my skills in **web development, JavaScript, and
 - **Internship Provider:** Micro IT Solutions (MITS)
 - **Duration:** [Add your internship dates]
 - **Role:** Web Development Intern
+- **Stipend:** ₹15,000 (Guaranteed)
 
 ## 📌 Key Skills
 
@@ -27,9 +28,3 @@ The internship helped me enhance my skills in **web development, JavaScript, and
 - Git & GitHub
 - REST APIs
 - Frontend Logic & UI Design
-
-## 🔗 LinkedIn Post
-
-> Successfully completed my internship at **Micro IT Solutions (MITS)** with hands-on experience in full-stack project development! 💻  
-> Check out my GitHub to explore 8+ real-world projects I built from scratch.  
-> #WebDevelopment #InternshipCompleted #MITS #MicroITSolutions #GitHubProjects #JavaScript #HTML #CSS #FrontendDeveloper #FullStackDevelopment #InternshipExperience
